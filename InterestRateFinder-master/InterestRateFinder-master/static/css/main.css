@@ -1,0 +1,28 @@
+.inputs{
+    height: 50px;
+}
+#meter_pic{
+    width:400px;
+    height:auto;
+}
+hr{
+    color:white;
+}
+
+.InsightImg{
+	max-width: 100%;
+}
+
+.under{
+	margin-bottom: 45px;
+}
+
+.c_txt_m_under {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.centerBlock {
+  display: table;
+  margin: auto;
+}
